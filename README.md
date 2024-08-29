@@ -2,10 +2,6 @@
  Luna Token Grabber
 
 
-
-
-Telegram: https://t.me/lunaxsmug
-
 Features
 
     Discord Info
